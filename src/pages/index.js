@@ -83,8 +83,9 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Welcome to <b>My Gatsby Playground!</b>
       </h1>
+      <h2>Where I'll probably try, like, one thing and never touch it again.</h2>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
